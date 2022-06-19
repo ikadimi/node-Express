@@ -1,4 +1,5 @@
 {
+	"version": "1.0.0",
 	"author": "Ikadimi",
 	"description": "A project to learn more about node",
 	"name": "fcc-learn-npm-package-json",
