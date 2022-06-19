@@ -3,6 +3,7 @@
 	"description": "A project to learn more about node",
 	"name": "fcc-learn-npm-package-json",
 	"keywords": ["freecodecamp", "nodejs", "express"],
+	"license": "MIT",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
