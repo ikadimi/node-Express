@@ -1,5 +1,6 @@
 {
 	"author": "Ikadimi",
+	"description": "A project to learn more about node",
 	"name": "fcc-learn-npm-package-json",
 	"dependencies": {
 		"express": "^4.14.0"
